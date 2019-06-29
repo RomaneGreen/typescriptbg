@@ -1,5 +1,8 @@
-var sumzdx = function (a, b) {
-    return a + b;
-};
-var answa = sumzdx(4, 5);
-console.log(answa);
+// const sumzdx = (a:number,b:number) =>  {
+//     return a + b
+// }
+// const answa = sumzdx(true,5)
+// console.log(answa)
+var isCool = true;
+var age = 26;
+var eyeColor = 'brown';
